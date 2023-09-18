@@ -14,8 +14,8 @@ Application created based on the course [Angular - Tour of Heroes application](h
 
 ## How to run
  1. Download the entire repository
- 2. Open BuildVersion folder
- 3. Run http-server in BuildVersion folder
+ 2. Open buildVersion folder
+ 3. Run http-server in buildVersion folder
  4. Open localhost page in browser
 
 ## Technologies Used
