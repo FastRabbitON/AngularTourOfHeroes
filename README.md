@@ -1,1 +1,1 @@
-# angular-tour-of-heroes
+# Angular - Tour of heroes (course)
