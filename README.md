@@ -1,4 +1,4 @@
-# Angular - Tour of heroes (course)
+# Angular - Tour of Heroes (course)
 
 ## Table of Contents
 
